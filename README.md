@@ -1,3 +1,2 @@
-# feijidazhan
-这是一个小游戏
+# 飞机大战
 ![image](https://raw.githubusercontent.com/zhangsuo/feijidazhan/master/screenshots/feiji.png)
